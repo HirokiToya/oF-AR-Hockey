@@ -1,0 +1,7 @@
+ofxBox2d
+ofxControlPanel
+ofxOpenCv
+ofxCv
+ofxGui
+ofxKinect
+ofxXmlSettings

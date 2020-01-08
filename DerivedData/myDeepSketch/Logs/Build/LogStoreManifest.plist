@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>112E5417-FBC9-4B4E-B9B6-3161B812B952</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>112E5417-FBC9-4B4E-B9B6-3161B812B952.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600160501.85582304</real>
+			<key>timeStoppedRecording</key>
+			<real>600160505.71366704</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>112E5417-FBC9-4B4E-B9B6-3161B812B952</string>
+		</dict>
+		<key>2A575469-47FC-458B-B361-BD2E15D82426</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A575469-47FC-458B-B361-BD2E15D82426.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600161035.250121</real>
+			<key>timeStoppedRecording</key>
+			<real>600161043.88856697</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2A575469-47FC-458B-B361-BD2E15D82426</string>
+		</dict>
+		<key>2CF41733-682D-469F-A677-FCD84CF0496D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CF41733-682D-469F-A677-FCD84CF0496D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600160661.29647803</real>
+			<key>timeStoppedRecording</key>
+			<real>600160665.542436</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2CF41733-682D-469F-A677-FCD84CF0496D</string>
+		</dict>
+		<key>3A08309A-3E78-43D5-AE69-AD99EDEFD561</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3A08309A-3E78-43D5-AE69-AD99EDEFD561.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600162147.65860796</real>
+			<key>timeStoppedRecording</key>
+			<real>600162150.74748802</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3A08309A-3E78-43D5-AE69-AD99EDEFD561</string>
+		</dict>
+		<key>3EB3042C-FD82-41F8-AE77-3B1AE9EA2452</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EB3042C-FD82-41F8-AE77-3B1AE9EA2452.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600160595.53830802</real>
+			<key>timeStoppedRecording</key>
+			<real>600160601.92147195</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3EB3042C-FD82-41F8-AE77-3B1AE9EA2452</string>
+		</dict>
+		<key>5BCEAA7D-F0CB-4CC8-80EB-DF2C507F1D2B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BCEAA7D-F0CB-4CC8-80EB-DF2C507F1D2B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600162007.76352298</real>
+			<key>timeStoppedRecording</key>
+			<real>600162010.895509</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5BCEAA7D-F0CB-4CC8-80EB-DF2C507F1D2B</string>
+		</dict>
+		<key>7EFB0311-37BA-4750-A1D5-CC4D4E97C62D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7EFB0311-37BA-4750-A1D5-CC4D4E97C62D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600161404.757231</real>
+			<key>timeStoppedRecording</key>
+			<real>600161550.50738001</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>7EFB0311-37BA-4750-A1D5-CC4D4E97C62D</string>
+		</dict>
+		<key>8142FD35-F05D-4E95-8C21-5374944237A6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8142FD35-F05D-4E95-8C21-5374944237A6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600160988.27548897</real>
+			<key>timeStoppedRecording</key>
+			<real>600160998.17149699</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8142FD35-F05D-4E95-8C21-5374944237A6</string>
+		</dict>
+		<key>8CECD4B2-9D84-4397-92C6-907DA35DBAE7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8CECD4B2-9D84-4397-92C6-907DA35DBAE7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600161919.53835201</real>
+			<key>timeStoppedRecording</key>
+			<real>600161922.75516605</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8CECD4B2-9D84-4397-92C6-907DA35DBAE7</string>
+		</dict>
+		<key>9B72593E-5D02-4D7B-BF07-62A2ECB8B273</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9B72593E-5D02-4D7B-BF07-62A2ECB8B273.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600162215.04887605</real>
+			<key>timeStoppedRecording</key>
+			<real>600162231.58814704</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9B72593E-5D02-4D7B-BF07-62A2ECB8B273</string>
+		</dict>
+		<key>9C4C1735-126C-43BE-8EFF-65E1C026C9D3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9C4C1735-126C-43BE-8EFF-65E1C026C9D3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600160294.93026602</real>
+			<key>timeStoppedRecording</key>
+			<real>600160404.80230498</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>9C4C1735-126C-43BE-8EFF-65E1C026C9D3</string>
+		</dict>
+		<key>B003862A-A1B4-4E09-966E-C6EC0786D3BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B003862A-A1B4-4E09-966E-C6EC0786D3BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600161868.57499099</real>
+			<key>timeStoppedRecording</key>
+			<real>600161872.02599502</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B003862A-A1B4-4E09-966E-C6EC0786D3BE</string>
+		</dict>
+		<key>BFA4375A-8382-4066-9777-5632E5F0491C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>BFA4375A-8382-4066-9777-5632E5F0491C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600161654.62291706</real>
+			<key>timeStoppedRecording</key>
+			<real>600161657.73470402</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>BFA4375A-8382-4066-9777-5632E5F0491C</string>
+		</dict>
+		<key>DCDB4902-FC15-4360-B016-5E14A4514AD2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DCDB4902-FC15-4360-B016-5E14A4514AD2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>myDeepSketch project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>myDeepSketch Debug</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>timeStartedRecording</key>
+			<real>600161634.33650601</real>
+			<key>timeStoppedRecording</key>
+			<real>600161648.66358399</real>
+			<key>title</key>
+			<string>Build myDeepSketch Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>DCDB4902-FC15-4360-B016-5E14A4514AD2</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
